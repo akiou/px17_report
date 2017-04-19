@@ -7,3 +7,5 @@ That's why I use it.
 
 The slides in this repository are used
 to present my business trip report.
+
+See [Reveal.js](https://github.com/hakimel/reveal.js) for more information.

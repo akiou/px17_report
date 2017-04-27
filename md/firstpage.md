@@ -208,6 +208,8 @@ Note:
 - I enjoyed delicious food/dessert and sightseeing
 - Let's go abroad!!!
 
+<img src="figure/mag.jpg" height="250">
+
 Note:
 - 海外の学会に参加して来ました
 - とても英語の勉強にもなったし、すごくいい経験になりました。
